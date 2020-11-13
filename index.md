@@ -12,3 +12,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - DLorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
+
+## Recent Publications
+
+[Wee, S., Newman, D.A., Song, Q. C., & Schinka, J.A. (2020). Vocational interests, gender, and job performance: Two person-occupation cross-level interactions. _Personnel Psychology_](https://www.purdue.edu/hhs/psy/directory/faculty/Wee_etal.-2020-Vocational_Interests_gender_and_job_performance1.pdf)
+
+Song, Q. C., Tang, C., & Wee, S. (in press). Making sense of model generalizability: A tutorial on cross-validation in R and Shiny. -_Advances in Methods and Practices in Psychological Science._
