@@ -8,7 +8,14 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Serena Wee
   avatar: bio-photo.jpg
-  bio: "Senior Lecturer in Organisational Psychology"
+  bio: "Senior Lecturer in Organisational Psychology at University of Western Australia
+  
+  **PhD. Industrial and Organisational Psychology**
+  University of Illinois at Urbana-Champaign, 2010
+  
+**M.S. Applied Statistics**
+  University of Illinois at Urbana-Champaign, 2009"
+  
   email: #serena.wee@uwa.edu.au
   # Do not include the @ symbol in your Twitter username
   twitter: #wee_r_serena
