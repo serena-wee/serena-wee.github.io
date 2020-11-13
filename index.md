@@ -3,14 +3,30 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Dr Serena Wee is a senior lecturer in oragnisationl psychology at the School of Psychological Science. Serena is passionate about helping organisations develop equitable and effective selection systems. In her research, she investigates how people's skills, personality, and attitudes predict work outcomes in relation to hiring, promotion and turnover, with the ultimate aim of advancing diversity outcomes in organisations. 
 
-## Current Interests and Projects:
+## Education
+
+**PhD. Industrial and Organisational Psychology**
+  University of Illinois at Urbana-Champaign, 2010
+  
+**M.S. Applied Statistics**
+  University of Illinois at Urbana-Champaign, 2009
+  
+
+## Research Interests:
 
 - Recruitment and Selection
   - Optimising organisational diversisty and job performance 
   - Implications of digital technologies use on applicant quality and applicant experience
-
+- Individual Differences
+  - Utility of specific cognitive abilities
+  - Vocational interests and gender gaps in job performance
+- Research Methods
+  - Multilevel modeling
+  - Machine learning algorithms (in recruitment and selection contexts)
+  
+  
 ## Recent Publications
 
 Wee, S., Newman, D.A., Song, Q. C., & Schinka, J.A. (2020). Vocational interests, gender, and job performance: Two person-occupation cross-level interactions. _Personnel Psychology_ [Link to File](https://www.purdue.edu/hhs/psy/directory/faculty/Wee_etal.-2020-Vocational_Interests_gender_and_job_performance1.pdf)
