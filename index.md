@@ -5,15 +5,6 @@ excerpt: "About Me..."
 
 Dr Serena Wee is a senior lecturer in oragnisationl psychology at the School of Psychological Science. Serena is passionate about helping organisations develop equitable and effective selection systems. In her research, she investigates how people's skills, personality, and attitudes predict work outcomes in relation to hiring, promotion and turnover, with the ultimate aim of advancing diversity outcomes in organisations. 
 
-## Education
-
-**PhD. Industrial and Organisational Psychology**
-  University of Illinois at Urbana-Champaign, 2010
-  
-**M.S. Applied Statistics**
-  University of Illinois at Urbana-Champaign, 2009
-  
-
 ## Research Interests:
 
 - Recruitment and Selection
