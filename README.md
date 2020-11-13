@@ -1,3 +1,5 @@
-# serena-wee.github.io
+# Dr. Serena Wee
 
- Updated the readme to include information about self.
+Senior Lecturer in Organisational Psychology
+
+University of Western Australia
