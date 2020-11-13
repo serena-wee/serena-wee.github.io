@@ -7,14 +7,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Recruitment and Selection
+  - Optimising organisational diversisty and job performance 
+  - Implications of digital technologies use on applicant quality and applicant experience
 
 ## Recent Publications
 
-[Wee, S., Newman, D.A., Song, Q. C., & Schinka, J.A. (2020). Vocational interests, gender, and job performance: Two person-occupation cross-level interactions. _Personnel Psychology_](https://www.purdue.edu/hhs/psy/directory/faculty/Wee_etal.-2020-Vocational_Interests_gender_and_job_performance1.pdf)
+Wee, S., Newman, D.A., Song, Q. C., & Schinka, J.A. (2020). Vocational interests, gender, and job performance: Two person-occupation cross-level interactions. _Personnel Psychology_ [Link to File](https://www.purdue.edu/hhs/psy/directory/faculty/Wee_etal.-2020-Vocational_Interests_gender_and_job_performance1.pdf)
 
-Song, Q. C., Tang, C., & Wee, S. (in press). Making sense of model generalizability: A tutorial on cross-validation in R and Shiny. -_Advances in Methods and Practices in Psychological Science._
+Song, Q. C., Tang, C., & Wee, S. (in press). Making sense of model generalizability: A tutorial on cross-validation in R and Shiny. -_Advances in Methods and Practices in Psychological Science._ [Link to File](https://www.purdue.edu/hhs/psy/directory/faculty/Song_Tang_Wee_inpress_AMPPS_Making_sense_of_model_generalizability1.pdf)
